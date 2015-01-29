@@ -26,6 +26,7 @@ Need 8 booleans? Only have enough memory for 1 character? Worry no longer! 8ool 
 ```
 
 *outputs:*
+```
 0: FALSE
 1: FALSE
 2: FALSE
@@ -42,3 +43,4 @@ Need 8 booleans? Only have enough memory for 1 character? Worry no longer! 8ool 
 5: FALSE
 6: TRUE
 7: FALSE
+```
